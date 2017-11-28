@@ -1,0 +1,17 @@
+span {
+  display: block;
+  margin: 0;
+  color: #656565;
+  font-size: 0.5em;
+}
+
+input {
+  border: none;
+  border-bottom: 1px solid #656565;
+  font-size: 1em;
+  outline: none;
+}
+
+input:disabled {
+  background-color: #444;
+}
